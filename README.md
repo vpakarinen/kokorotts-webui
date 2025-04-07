@@ -6,7 +6,7 @@ A simple web user interface for Kokoro Text-to-Speech.
 
 ## Installation
 
-1. Clone this repository
+1. Clone this repository:
 
 ```bash
 git clone https://github.com/vpakarinen/kokoro-tts-webui.git
